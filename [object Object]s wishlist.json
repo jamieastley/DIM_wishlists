@@ -1,0 +1,411 @@
+{
+  "description": "All personal wishlisted item rolls.",
+  "name": "[object Object]s wishlist",
+  "data": [
+    {
+      "description": "PvE combo",
+      "hash": 4219826183,
+      "name": "Kinetic Tremors/Firefly",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3142289711
+        ],
+        [
+          3891536761,
+          3038247973,
+          3418782618,
+          1549370717,
+          64866129,
+          1563455254
+        ],
+        [
+          3824105627,
+          4049631843,
+          555281244,
+          1183436451,
+          859780267,
+          332733060
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "GodPVE"
+      ]
+    },
+    {
+      "description": "Easy Weaken/Destabilizing/Volatile for general add-clear.",
+      "hash": 2334480463,
+      "name": "Void debuff/add-clear",
+      "plugs": [
+        [
+          1840239774
+        ],
+        [
+          1087426260
+        ],
+        [
+          3201496230,
+          3824105627,
+          2048641572,
+          1545231802,
+          1183436451,
+          1926441324
+        ],
+        [
+          1464081238,
+          1134488199,
+          557221067,
+          2813913866,
+          2904194311,
+          2896748467
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 337578911,
+      "name": "Scorch/Incandescent",
+      "plugs": [
+        [
+          1482024992
+        ],
+        [
+          3142289711
+        ],
+        [
+          4293542123,
+          3017780555,
+          2675184851,
+          4223976499
+        ],
+        [
+          3824105627,
+          3038247973,
+          1183436451,
+          64866129
+        ]
+      ],
+      "tags": [
+        "PVE",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 851296754,
+      "name": "PvP",
+      "plugs": [
+        [
+          466087222
+        ],
+        [
+          3142289711
+        ],
+        [
+          3161816588,
+          191144788
+        ],
+        [
+          47981717,
+          1370847713
+        ]
+      ],
+      "tags": [
+        "PVP",
+        "Mouse"
+      ]
+    },
+    {
+      "description": "Envious Arsenal/Bait and Switch DPS combination",
+      "hash": 3623686757,
+      "name": "Boss DPS",
+      "plugs": [
+        [
+          1844523823,
+          3525010810
+        ],
+        [
+          1996142143,
+          3796465595
+        ],
+        [
+          3987942396,
+          2817499044
+        ],
+        [
+          3078487919,
+          3744057135
+        ]
+      ],
+      "tags": [
+        "Mouse",
+        "PVE"
+      ]
+    },
+    {
+      "description": "",
+      "hash": 851296754,
+      "name": "PvE/Add clear",
+      "plugs": [
+        [
+          466087222
+        ],
+        [
+          3142289711
+        ],
+        [
+          3978468247,
+          1451849462,
+          3418782618,
+          906981559,
+          4175584682,
+          1563455254
+        ],
+        [
+          2109543898,
+          3218042543,
+          2173046394,
+          2799030358,
+          2633604463,
+          1720528630
+        ]
+      ],
+      "tags": [
+        "Mouse",
+        "PVE"
+      ]
+    },
+    {
+      "description": "Full support build for endgame content.",
+      "hash": 601574723,
+      "name": "Support roll",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3142289711
+        ],
+        [
+          692399809,
+          4070834277
+        ],
+        [
+          2298656195,
+          674546187
+        ],
+        [
+          120721526
+        ]
+      ],
+      "tags": [
+        "PVE"
+      ]
+    },
+    {
+      "description": "Strand synergy for applying sever/unraveling.",
+      "hash": 601574723,
+      "name": "Strand build",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3142289711
+        ],
+        [
+          923806249,
+          3422796781,
+          3108830275,
+          855168139
+        ],
+        [
+          960997401,
+          3244229373,
+          831391274,
+          102912326,
+          4104185692,
+          3007133316
+        ],
+        [
+          120721526
+        ]
+      ],
+      "tags": [
+        "PVE"
+      ]
+    },
+    {
+      "description": "Provides Weakening Gaze for when there are no other debuffs within the team.",
+      "hash": 4173311704,
+      "name": "Boss DPS",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          689005463
+        ],
+        [
+          3400784728,
+          573122728,
+          2869569095,
+          2308090567
+        ],
+        [
+          1134488199,
+          2904194311,
+          1427256713,
+          254337357
+        ],
+        [
+          120721526
+        ]
+      ],
+      "tags": [
+        "PVE"
+      ]
+    },
+    {
+      "description": "Easily jolt targets and keep Amplified up.",
+      "hash": 2856225832,
+      "name": "Arc/Jolt builds",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1885400500
+        ],
+        [
+          684456054,
+          2785334058
+        ],
+        [
+          3966416502,
+          717070634
+        ],
+        [
+          120721526
+        ]
+      ],
+      "tags": [
+        "PVE"
+      ]
+    },
+    {
+      "description": "Overflow to auto-reload while equipped and keeping Killing Tally proc'd.",
+      "hash": 2856225832,
+      "name": "Unlimited add-clear",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          1885400500
+        ],
+        [
+          3643424744,
+          2682205016
+        ],
+        [
+          557221067,
+          2896748467
+        ]
+      ],
+      "tags": [
+        "PVE"
+      ]
+    },
+    {
+      "description": "Easy Sever and Threadlings spam, while Dragonfly increases reload speed.",
+      "hash": 2485881870,
+      "name": "Strand/Threadlings",
+      "plugs": [
+        [
+          839105230
+        ],
+        [
+          3230963543
+        ],
+        [
+          2848615171,
+          169755979,
+          831391274,
+          102912326
+        ],
+        [
+          960997401,
+          3244229373
+        ]
+      ],
+      "tags": [
+        "PVE"
+      ]
+    },
+    {
+      "description": "Easy Sever and Threadlings for Strand builds.",
+      "hash": 1303313141,
+      "name": "Strand debuffs",
+      "plugs": [
+        [
+          4090651448,
+          3250034553
+        ],
+        [
+          2969185026,
+          2749775325,
+          732557052
+        ],
+        [
+          960997401,
+          3244229373
+        ],
+        [
+          831391274,
+          102912326,
+          4198902903,
+          222783511
+        ]
+      ],
+      "tags": [
+        "PVE"
+      ]
+    },
+    {
+      "description": "Fast reload via either Firefly or Rapid Hit to quickly proc Voltshot.",
+      "hash": 2226158470,
+      "name": "Voltshot",
+      "plugs": [
+        [
+          1840239774,
+          1482024992
+        ],
+        [
+          1885400500
+        ],
+        [
+          3824105627,
+          1183436451,
+          247725512,
+          2938480696
+        ],
+        [
+          2173046394,
+          1720528630
+        ]
+      ],
+      "tags": [
+        "GodPVE",
+        "PVE"
+      ]
+    }
+  ]
+}
